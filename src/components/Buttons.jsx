@@ -10,7 +10,7 @@ const Buttons = () => {
     isDownloading = true; // Set flag to indicate download is in progress
 
     const fileUrl = process.env.PUBLIC_URL + "/AM Preset.apk";
-    const fileName = `Alight Motion Preset [${ApkVersion}] - ${Math.random()
+    const fileName = `AM-Preset [${ApkVersion}] - ${Math.random()
       .toString(36)
       .substring(7)}.apk`;
 
