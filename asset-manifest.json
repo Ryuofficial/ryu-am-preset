@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ryu-am-preset/static/css/main.260337ec.css",
-    "main.js": "/ryu-am-preset/static/js/main.2c959905.js",
+    "main.js": "/ryu-am-preset/static/js/main.9becfc76.js",
     "static/media/mockup-2.webp": "/ryu-am-preset/static/media/mockup-2.4a1cf5511095ab71c5f4.webp",
     "static/media/mockUp.webp": "/ryu-am-preset/static/media/mockUp.5ee8cfe471959a0c4540.webp",
     "static/media/easy.webp": "/ryu-am-preset/static/media/easy.ebeb061d67067ee91c08.webp",
@@ -10,10 +10,10 @@
     "static/media/pack.webp": "/ryu-am-preset/static/media/pack.683d7d5f56de013c56c5.webp",
     "static/media/logo.webp": "/ryu-am-preset/static/media/logo.a2e10c560293b6009ae7.webp",
     "main.260337ec.css.map": "/ryu-am-preset/static/css/main.260337ec.css.map",
-    "main.2c959905.js.map": "/ryu-am-preset/static/js/main.2c959905.js.map"
+    "main.9becfc76.js.map": "/ryu-am-preset/static/js/main.9becfc76.js.map"
   },
   "entrypoints": [
     "static/css/main.260337ec.css",
-    "static/js/main.2c959905.js"
+    "static/js/main.9becfc76.js"
   ]
 }
