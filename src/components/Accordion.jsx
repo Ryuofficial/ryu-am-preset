@@ -24,7 +24,7 @@ function Accordion() {
 
     {
       title: "How to Download Audio from the app?",
-      desc: "You simply click the 'Download Audio' then you will redirected to website that have a download button.",
+      desc: "You simply click 'Download Audio,' then you will be redirected to a website with a 'Download' button. Click it, and the audio will download automatically",
     },
   ];
 
