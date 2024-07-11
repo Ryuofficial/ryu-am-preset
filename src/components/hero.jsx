@@ -7,7 +7,7 @@ function hero() {
     <section>
       <div className="text-center md:max-w-[1200px] p-8 md:p-20  grid grid-cols-1 md:grid-cols-2 md:text-start gap-10">
         <div className="mt-10 ">
-          <h1 className="leading-normal text-[2rem] whitespace-nowrap md:whitespace-wrap md:text-[3rem] font-bold text-white">
+          <p className="leading-normal text-[2rem] whitespace-nowrap md:whitespace-wrap md:text-[3rem] font-bold text-white">
             <span className="bg-gradient-to-r from-[#2af598]  to-[#009efd] inline-block text-transparent bg-clip-text">
               AM Preset for
             </span>
@@ -29,7 +29,7 @@ function hero() {
               speed={20}
               repeat={Infinity}
             />
-          </h1>
+          </p>
           <div>
             <p className="text-[0.9rem]  md:text-[.9rem] text-[#979696] mt-10">
               Alight Motion Preset is the perfect app for those who want to

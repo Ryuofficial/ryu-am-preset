@@ -6,7 +6,9 @@ function Nav() {
         {/* 1st box- logo */}
         <div href="/" className="flex items-center">
           <img className="w-14 h-14" src={Logo} alt="icon" />
-          <p className="text-white font-semibold text-[1rem] ml-2">AM Preset</p>
+          <h1 className="text-white font-semibold text-[1rem] ml-2">
+            AM Preset
+          </h1>
         </div>
         {/* 2nd box */}
         <div>
