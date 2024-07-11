@@ -31,9 +31,8 @@ function About() {
                 AM Preset - the app that makes video editing fast, easy and
                 convenient. Our app offers a collection of free presets that you
                 can use for your video projects without the need to start from
-                scratch. With Alight Motion Preset, you'll have access to a
-                library of presets that are designed to make your videos look
-                stunning in just a few clicks
+                scratch. The app offers video presets, shake presets, text
+                presets, and color presets with AM link and XML options.
               </p>
             </div>
           </div>

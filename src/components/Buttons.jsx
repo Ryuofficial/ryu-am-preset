@@ -43,7 +43,7 @@ const Buttons = () => {
       <div className="p-2 md:p-0 mt-[3rem] md:mt-[2rem] space-y-3 md:space-y-0 md:space-x-3 grid justify-center grid-cols-1 md:grid-cols-2">
         {/* Direct Download now button */}
         <div
-          className="transition-all flex justify-center items-center whitespace-nowrap text-[0.7rem] text-[#0e0f16] bg-gradient-to-r md:text-sm shadow-pinkShadow from-[#2af598] to-[#009efd] p-3 md:py-2 md:px-5 rounded-full active:text-[#151722]"
+          className="transition-all flex justify-center items-center whitespace-nowrap text-[0.7rem] text-[#0e0f16] bg-gradient-to-r md:text-sm shadow-pinkShadow from-[#2af598] to-[#009efd] p-3 md:py-2 md:px-5 rounded-full active:text-[#151722] font-semibold"
           onClick={handleDownloadClick}
         >
           {!isStarted ? "Download Now" : <LoadingAnimation />}
